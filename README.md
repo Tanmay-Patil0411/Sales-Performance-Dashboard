@@ -10,7 +10,7 @@ An end-to-end Data Analytics project built using **MySQL** and **Power BI** to a
 
 > Add your dashboard screenshot here.
 
-![Dashboard](Images/dashboard.png)
+<img width="1123" height="747" alt="dashboard" src="https://github.com/user-attachments/assets/858a2261-1b2d-4211-b362-14c70a8e47fd" />
 
 ---
 
